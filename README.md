@@ -1,7 +1,5 @@
 # Portfólio
 
-```
-
 Olá, Bem vindo ao meu projeto de portfólio.
 
 ![image](./assets/telaDoProjeto.png)
@@ -19,5 +17,3 @@ Olá, Bem vindo ao meu projeto de portfólio.
 ### Everton Mello
 
 ### Linkedin: https://www.linkedin.com/in/ton-mello/
-
-```
